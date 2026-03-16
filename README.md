@@ -13,7 +13,7 @@ This is my repo for ***STATS 220***.
 2. Understand how to make HTML reports
 3. Use GitHub to share my work
 
-#### Useful Link:
+#### *Useful Link*:
 [STATS 220 Data Technologies](https://www.stat-edu.cloud.edu.au/foo/docnamic/stats220_S126/)
 
 A meme that captures how I currently feel about my university studies is 
