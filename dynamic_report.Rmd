@@ -43,7 +43,7 @@ The average ad length was `r round(mean(latest_data$duration_seconds, na.rm = TR
 ```{r}
 latest_data %>%
   ggplot() +
-    geom_bar(aes(x = ad_type), fill = "blue") +
+    geom_bar(aes(x = ad_type), fill = "skyblue") +
   labs(title = "Number of Instagram ads by type",
        x = "Ad type",
        y = "Number of ads")
@@ -53,7 +53,7 @@ latest_data %>%
 ```{r}
 latest_data %>%
   ggplot() +
-    geom_bar(aes(x = time_of_day), fill = "pink") +
+    geom_bar(aes(x = time_of_day), fill = "skyblue") +
   labs(title = "Number of Instagram ads by time of day",
        x = "Time of day",
        y = "Number of ads")
